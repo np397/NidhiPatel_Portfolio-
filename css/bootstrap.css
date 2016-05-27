@@ -3289,8 +3289,8 @@ fieldset[disabled] .btn-info.focus {
 }
 .btn-warning {
   color: #fff;
-  background-color: #f0ad4e;
-  border-color: #eea236;
+  background-color: #EF6963;
+  border-color: #EF6963;
 }
 .btn-warning:focus,
 .btn-warning.focus {
@@ -3299,9 +3299,9 @@ fieldset[disabled] .btn-info.focus {
   border-color: #985f0d;
 }
 .btn-warning:hover {
-  color: #fff;
-  background-color: #ec971f;
-  border-color: #d58512;
+  color: #EF6963;;
+  background-color: #FFFFFF;
+  border-color: #EF6963;
 }
 .btn-warning:active,
 .btn-warning.active,
